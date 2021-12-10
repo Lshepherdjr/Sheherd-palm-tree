@@ -12,7 +12,7 @@ Hi
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](src)<img src=<img src=https://as1.ftcdn.net/v2/jpg/03/66/01/66/1000_F_366016667_FDlP020imj4VW7NVouJglVLbHGbJrk7w.jpg
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
