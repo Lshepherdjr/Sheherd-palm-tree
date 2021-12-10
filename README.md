@@ -1,2 +1,2 @@
-#Shepherd-palm-tree
+Shepherd-palm-tree
 
